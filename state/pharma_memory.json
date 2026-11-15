@@ -31,8 +31,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 0,
       "summary": "* **Interaction Signal:** Warfarin and aspirin carry synergistic bleeding risk (anticoagulant + antiplatelet), elevating GI and intracranial hemorrhage potential (severity: 38 pts; regimen risk score:"
+    },
+    {
+      "timestamp_utc": "2026-11-15T17:16:21.135513+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 0,
+      "summary": "**MedMesh Clinical Safety Summary**\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a synergistic risk of major bleeding, particularly gastrointestinal or intracranial, du"
     }
   ],
-  "total_screenings": 3,
-  "last_screening_utc": "2026-11-15T16:53:43.692009+00:00"
+  "total_screenings": 4,
+  "last_screening_utc": "2026-11-15T17:16:21.135513+00:00"
 }
