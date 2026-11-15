@@ -1,0 +1,30 @@
+{
+  "agent_name": "MedMesh Clinical Safety Director",
+  "seen_trial_ncts": [
+    "NCT02247128",
+    "NCT07431762",
+    "NCT05643235",
+    "NCT06983795",
+    "NCT02295826"
+  ],
+  "triage_history": [
+    {
+      "timestamp_utc": "2026-11-15T16:45:36.857202+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 5,
+      "summary": "### MedMesh Pharmacovigilance Triage (HIGH PRIORITY PHARMACIST REVIEW \u00b7 74.0/100)\n- **Regimen Screened**: Warfarin, Aspirin, Atorvastatin (OpenFDA FAERS + Labels + PubChem).\n- **Primary Interaction Si"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:47:00.574065+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 0,
+      "summary": "### MedMesh Pharmacovigilance Triage (HIGH PRIORITY PHARMACIST REVIEW \u00b7 74.0/100)\n- **Regimen Screened**: Warfarin, Aspirin, Atorvastatin (OpenFDA FAERS + Labels + PubChem).\n- **Primary Interaction Si"
+    }
+  ],
+  "total_screenings": 2,
+  "last_screening_utc": "2026-11-15T16:47:00.574065+00:00"
+}
