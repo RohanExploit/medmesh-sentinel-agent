@@ -23,8 +23,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 0,
       "summary": "### MedMesh Pharmacovigilance Triage (HIGH PRIORITY PHARMACIST REVIEW \u00b7 74.0/100)\n- **Regimen Screened**: Warfarin, Aspirin, Atorvastatin (OpenFDA FAERS + Labels + PubChem).\n- **Primary Interaction Si"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:53:43.692009+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 0,
+      "summary": "* **Interaction Signal:** Warfarin and aspirin carry synergistic bleeding risk (anticoagulant + antiplatelet), elevating GI and intracranial hemorrhage potential (severity: 38 pts; regimen risk score:"
     }
   ],
-  "total_screenings": 2,
-  "last_screening_utc": "2026-11-15T16:47:00.574065+00:00"
+  "total_screenings": 3,
+  "last_screening_utc": "2026-11-15T16:53:43.692009+00:00"
 }
