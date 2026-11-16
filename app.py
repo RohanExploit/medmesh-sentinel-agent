@@ -94,7 +94,7 @@ with st.sidebar:
         groq_key = st.text_input("Groq API Key Override", type="password", placeholder="Auto-fallback")
 
     run_btn = st.button("Run Pharmacovigilance Mesh", type="primary", width="stretch")
-    st.caption("Shreyash Gole · BTCOC701 · Educational Only")
+    st.caption("Manoj Sapkal · BTCOC701 · Educational Only")
 
 if "med_result" not in st.session_state or run_btn or st.session_state.pop("med_force", False):
     drugs_list = [d.strip() for d in drugs_raw.split(",") if d.strip()]
