@@ -10,7 +10,12 @@
     "NCT01953874",
     "NCT02334254",
     "NCT05646394",
-    "NCT01518231"
+    "NCT01518231",
+    "NCT03557242",
+    "NCT05782270",
+    "NCT05316311",
+    "NCT02635230",
+    "NCT00662467"
   ],
   "triage_history": [
     {
@@ -60,8 +65,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 5,
       "summary": "**MedMesh Clinical Safety Summary**\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a synergistic risk for major bleeding (GI or intracranial) due to dual antiplatelet and"
+    },
+    {
+      "timestamp_utc": "2026-11-18T12:37:52.342822+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 5,
+      "summary": "**MedMesh Clinical Safety Summary**\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a high-risk synergy; the anticoagulant effect of Warfarin combined with the antiplatele"
     }
   ],
-  "total_screenings": 6,
-  "last_screening_utc": "2026-11-17T12:45:41.207737+00:00"
+  "total_screenings": 7,
+  "last_screening_utc": "2026-11-18T12:37:52.342822+00:00"
 }
