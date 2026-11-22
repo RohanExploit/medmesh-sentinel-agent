@@ -111,8 +111,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 4,
       "summary": "As MedMesh Clinical Safety Director, here is your summary:\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a synergistic risk for major hemorrhage, particularly gastrointe"
+    },
+    {
+      "timestamp_utc": "2026-11-22T12:16:24.247178+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 0,
+      "summary": "**MedMesh Safety Brief: Warfarin + Aspirin + Atorvastatin**\n\n*   **Interaction Signal:** Dual anti-thrombotic therapy (Warfarin/Aspirin) significantly amplifies systemic bleeding risk, particularly ga"
     }
   ],
-  "total_screenings": 10,
-  "last_screening_utc": "2026-11-21T12:04:13.810839+00:00"
+  "total_screenings": 11,
+  "last_screening_utc": "2026-11-22T12:16:24.247178+00:00"
 }
