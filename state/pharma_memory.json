@@ -29,7 +29,11 @@
     "NCT02240953",
     "NCT06683300",
     "NCT02042534",
-    "NCT01452568"
+    "NCT01452568",
+    "NCT00465270",
+    "NCT03006341",
+    "NCT03558295",
+    "NCT00027066"
   ],
   "triage_history": [
     {
@@ -119,8 +123,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 0,
       "summary": "**MedMesh Safety Brief: Warfarin + Aspirin + Atorvastatin**\n\n*   **Interaction Signal:** Dual anti-thrombotic therapy (Warfarin/Aspirin) significantly amplifies systemic bleeding risk, particularly ga"
+    },
+    {
+      "timestamp_utc": "2026-11-23T14:02:42.200814+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 4,
+      "summary": "* **Interaction Signal:** Warfarin and Aspirin co-administration significantly elevates gastrointestinal and intracranial hemorrhage risk through synergistic anticoagulant and antiplatelet mechanisms."
     }
   ],
-  "total_screenings": 11,
-  "last_screening_utc": "2026-11-22T12:16:24.247178+00:00"
+  "total_screenings": 12,
+  "last_screening_utc": "2026-11-23T14:02:42.200814+00:00"
 }
