@@ -37,7 +37,11 @@
     "NCT00136526",
     "NCT00697151",
     "NCT02615587",
-    "NCT07441382"
+    "NCT07441382",
+    "NCT02832544",
+    "NCT03119116",
+    "NCT00515541",
+    "NCT03327350"
   ],
   "triage_history": [
     {
@@ -143,8 +147,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 4,
       "summary": "* **Interaction Signal:** Warfarin (anticoagulant) combined with Aspirin (antiplatelet) creates a high-risk synergy (Score: 74/100), significantly escalating the potential for major gastrointestinal o"
+    },
+    {
+      "timestamp_utc": "2026-11-25T13:51:54.141005+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 4,
+      "summary": "**MedMesh Clinical Safety Summary**\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a synergistic risk for major bleeding (GI and intracranial) by simultaneously impairing"
     }
   ],
-  "total_screenings": 13,
-  "last_screening_utc": "2026-11-24T14:32:55.720009+00:00"
+  "total_screenings": 14,
+  "last_screening_utc": "2026-11-25T13:51:54.141005+00:00"
 }
