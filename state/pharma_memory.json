@@ -155,8 +155,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 4,
       "summary": "**MedMesh Clinical Safety Summary**\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a synergistic risk for major bleeding (GI and intracranial) by simultaneously impairing"
+    },
+    {
+      "timestamp_utc": "2026-11-26T13:30:48.970833+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 0,
+      "summary": "As MedMesh Clinical Safety Director, here is the polypharmacy risk summary:\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a high-risk synergy that significantly elevates"
     }
   ],
-  "total_screenings": 14,
-  "last_screening_utc": "2026-11-25T13:51:54.141005+00:00"
+  "total_screenings": 15,
+  "last_screening_utc": "2026-11-26T13:30:48.970833+00:00"
 }
