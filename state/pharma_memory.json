@@ -41,7 +41,12 @@
     "NCT02832544",
     "NCT03119116",
     "NCT00515541",
-    "NCT03327350"
+    "NCT03327350",
+    "NCT00265408",
+    "NCT00859885",
+    "NCT00790842",
+    "NCT03704220",
+    "NCT03285438"
   ],
   "triage_history": [
     {
@@ -163,8 +168,16 @@
       "risk_score": 74.0,
       "new_trials_seen": 0,
       "summary": "As MedMesh Clinical Safety Director, here is the polypharmacy risk summary:\n\n*   **Interaction Signal:** The combination of Warfarin and Aspirin creates a high-risk synergy that significantly elevates"
+    },
+    {
+      "timestamp_utc": "2026-11-27T13:30:28.654947+00:00",
+      "regimen": "Warfarin, Aspirin, Atorvastatin",
+      "triage_level": "HIGH PRIORITY PHARMACIST REVIEW",
+      "risk_score": 74.0,
+      "new_trials_seen": 5,
+      "summary": "**MedMesh Clinical Safety Summary**\n\n*   **Interaction Signal:** Warfarin and aspirin exert synergistic effects on hemostasis, significantly elevating the risk of major gastrointestinal and intracrani"
     }
   ],
-  "total_screenings": 15,
-  "last_screening_utc": "2026-11-26T13:30:48.970833+00:00"
+  "total_screenings": 16,
+  "last_screening_utc": "2026-11-27T13:30:28.654947+00:00"
 }
